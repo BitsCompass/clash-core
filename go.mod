@@ -15,7 +15,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/atomic v1.7.0
 	golang.org/x/crypto v0.17.0
-	golang.org/x/net v0.10.0
+	golang.org/x/net v0.17.0
 	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.15.0
 	gopkg.in/yaml.v2 v2.4.0
